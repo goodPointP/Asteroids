@@ -1,0 +1,92 @@
+{"frames": [
+
+{
+	"filename": "bang.png",
+	"frame": {"x":0,"y":0,"w":120,"h":89},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":120,"h":89},
+	"sourceSize": {"w":120,"h":89}
+},
+{
+	"filename": "laserBlue01.png",
+	"frame": {"x":0,"y":89,"w":9,"h":54},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":9,"h":54},
+	"sourceSize": {"w":9,"h":54}
+},
+{
+	"filename": "meteorBrown_med1.png",
+	"frame": {"x":9,"y":89,"w":43,"h":43},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":43,"h":43},
+	"sourceSize": {"w":43,"h":43}
+},
+{
+	"filename": "meteorBrown_med3.png",
+	"frame": {"x":52,"y":89,"w":45,"h":40},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":45,"h":40},
+	"sourceSize": {"w":45,"h":40}
+},
+{
+	"filename": "meteorBrown_small1.png",
+	"frame": {"x":97,"y":89,"w":28,"h":28},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":28,"h":28},
+	"sourceSize": {"w":28,"h":28}
+},
+{
+	"filename": "meteorBrown_small2.png",
+	"frame": {"x":0,"y":143,"w":29,"h":26},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":29,"h":26},
+	"sourceSize": {"w":29,"h":26}
+},
+{
+	"filename": "meteorGrey_big1.png",
+	"frame": {"x":0,"y":169,"w":101,"h":84},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":101,"h":84},
+	"sourceSize": {"w":101,"h":84}
+},
+{
+	"filename": "meteorGrey_big2.png",
+	"frame": {"x":0,"y":253,"w":120,"h":98},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":120,"h":98},
+	"sourceSize": {"w":120,"h":98}
+},
+{
+	"filename": "meteorGrey_big3.png",
+	"frame": {"x":0,"y":351,"w":89,"h":82},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":89,"h":82},
+	"sourceSize": {"w":89,"h":82}
+},
+{
+	"filename": "playerShip1_blue.png",
+	"frame": {"x":0,"y":433,"w":99,"h":75},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":99,"h":75},
+	"sourceSize": {"w":99,"h":75}
+}],
+"meta": {
+	"app": "https://www.codeandweb.com/texturepacker",
+	"version": "1.0",
+	"image": "asteroidSprites.png",
+	"format": "RGBA8888",
+	"size": {"w":128,"h":512},
+	"scale": "1",
+	"smartupdate": "$TexturePacker:SmartUpdate:95e67c8afe63fc1ffbce989c9b106017:8f08ade4d2fc8f099b5242f03f8452a3:9e6f4c07d323cd001ff2b6d3eb38af9f$"
+}
+}
